@@ -1,5 +1,5 @@
 # Air-analizer
-## Technologies
+<h2 style="color:brown"> Technologies </h2>
 *Atmel Atmega 32 Chip with Atmel Studio*
 
 ## Project Discription
